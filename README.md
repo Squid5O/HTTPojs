@@ -23,3 +23,12 @@ REST API = 데이터에 직접 들어가서 빼온다?
 프론트 엔드 -  백엔드  ( 클라이언트, 서버)
 
 JSON
+
+UI -> game Mode <- actor
+actor 하나 만들어야함 
+
+왜 터짐? ㅠㅅ ㅜ
+
+Verb = 요청메시지
+
+operator +
